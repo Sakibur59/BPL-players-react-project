@@ -7,7 +7,8 @@
     "bowling_style": "Right-arm medium",
     "rating": 95,
     "price": 2500000,
-    "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg"
+    "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
+    "img_alt": "Virat Kohli"
   },
   {
     "player_name": "Babar Azam",
@@ -17,7 +18,8 @@
     "bowling_style": "Right-arm offbreak",
     "rating": 93,
     "price": 2200000,
-    "player_img": "https://example.com/images/babar_azam.jpg"
+    "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
+    "img_alt": "Babar Azam"
   },
   {
     "player_name": "Joe Root",
@@ -27,7 +29,8 @@
     "bowling_style": "Right-arm offbreak",
     "rating": 91,
     "price": 2100000,
-    "player_img": "https://example.com/images/joe_root.jpg"
+    "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
+    "img_alt": "Joe Root"
   },
   {
     "player_name": "Kane Williamson",
@@ -37,7 +40,8 @@
     "bowling_style": "Right-arm offbreak",
     "rating": 92,
     "price": 2000000,
-    "player_img": "https://example.com/images/kane_williamson.jpg"
+    "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
+    "img_alt": "Kane Williamson"
   },
   {
     "player_name": "Steve Smith",
@@ -47,7 +51,8 @@
     "bowling_style": "Right-arm legbreak",
     "rating": 94,
     "price": 2300000,
-    "player_img": "https://example.com/images/steve_smith.jpg"
+    "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
+    "img_alt": "Steve Smith"
   },
   {
     "player_name": "Shakib Al Hasan",
@@ -57,7 +62,8 @@
     "bowling_style": "Slow left-arm orthodox",
     "rating": 90,
     "price": 1800000,
-    "player_img": "https://example.com/images/shakib.jpg"
+    "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
+    "img_alt": "Shakib Al Hasan"
   },
   {
     "player_name": "Ben Stokes",
@@ -67,7 +73,8 @@
     "bowling_style": "Right-arm fast-medium",
     "rating": 89,
     "price": 1900000,
-    "player_img": "https://example.com/images/ben_stokes.jpg"
+    "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
+    "img_alt": "Ben Stokes"
   },
   {
     "player_name": "Hardik Pandya",
@@ -77,7 +84,8 @@
     "bowling_style": "Right-arm fast-medium",
     "rating": 88,
     "price": 1700000,
-    "player_img": "https://example.com/images/hardik_pandya.jpg"
+    "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
+    "img_alt": "Hardik Pandya"
   },
   {
     "player_name": "Jasprit Bumrah",
@@ -87,7 +95,8 @@
     "bowling_style": "Right-arm fast",
     "rating": 91,
     "price": 2000000,
-    "player_img": "https://example.com/images/bumrah.jpg"
+    "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
+    "img_alt": "Jasprit Bumrah"
   },
   {
     "player_name": "Mitchell Starc",
@@ -97,7 +106,8 @@
     "bowling_style": "Left-arm fast",
     "rating": 90,
     "price": 1900000,
-    "player_img": "https://example.com/images/starc.jpg"
+    "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
+    "img_alt": "Mitchell Starc"
   },
   {
     "player_name": "Trent Boult",
@@ -107,7 +117,8 @@
     "bowling_style": "Left-arm fast-medium",
     "rating": 89,
     "price": 1800000,
-    "player_img": "https://example.com/images/boult.jpg"
+    "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
+    "img_alt": "Trent Boult"
   },
   {
     "player_name": "Jos Buttler",
@@ -117,6 +128,7 @@
     "bowling_style": "None",
     "rating": 92,
     "price": 2100000,
-    "player_img": "https://example.com/images/buttler.jpg"
+    "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
+    "img_alt": "Jos Buttler"
   }
 ]
