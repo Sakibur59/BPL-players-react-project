@@ -1,9 +1,12 @@
-import React from 'react';
+import React, { use } from 'react';
+import AvailablePlayers from '../AvailablePlayers/AvailablePlayers';
 
-const Players = () => {
+const Players = ({playerPromise}) => {
+    const playerData = use(playerPromise);
+    
     return (
-        <div>
-            
+        <div className='max-w-[300] mx-auto'>
+            <AvailablePlayers playerData={playerData}></AvailablePlayers>
         </div>
     );
 };
