@@ -17,7 +17,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
     "rating": 93,
-    "price": 2200000,
+    "price": 2200,
     "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
     "img_alt": "Babar Azam"
   },
@@ -28,7 +28,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
     "rating": 91,
-    "price": 2100000,
+    "price": 2100,
     "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
     "img_alt": "Joe Root"
   },
@@ -39,7 +39,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
     "rating": 92,
-    "price": 2000000,
+    "price": 2000,
     "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
     "img_alt": "Kane Williamson"
   },
@@ -50,7 +50,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm legbreak",
     "rating": 94,
-    "price": 2300000,
+    "price": 2300,
     "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
     "img_alt": "Steve Smith"
   },
@@ -61,7 +61,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "Slow left-arm orthodox",
     "rating": 90,
-    "price": 1800000,
+    "price": 1800,
     "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
     "img_alt": "Shakib Al Hasan"
   },
@@ -72,7 +72,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm fast-medium",
     "rating": 89,
-    "price": 1900000,
+    "price": 1900,
     "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
     "img_alt": "Ben Stokes"
   },
@@ -83,7 +83,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast-medium",
     "rating": 88,
-    "price": 1700000,
+    "price": 1700,
     "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
     "img_alt": "Hardik Pandya"
   },
@@ -94,7 +94,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast",
     "rating": 91,
-    "price": 2000000,
+    "price": 2000,
     "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
     "img_alt": "Jasprit Bumrah"
   },
@@ -105,7 +105,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "Left-arm fast",
     "rating": 90,
-    "price": 1900000,
+    "price": 1900,
     "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
     "img_alt": "Mitchell Starc"
   },
@@ -116,7 +116,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Left-arm fast-medium",
     "rating": 89,
-    "price": 1800000,
+    "price": 1800,
     "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
     "img_alt": "Trent Boult"
   },
@@ -127,7 +127,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "None",
     "rating": 92,
-    "price": 2100000,
+    "price": 2100,
     "player_img": "https://i.ibb.co.com/73JxW5t/images.jpg",
     "img_alt": "Jos Buttler"
   }

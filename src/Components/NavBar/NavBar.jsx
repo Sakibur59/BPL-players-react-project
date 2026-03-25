@@ -1,6 +1,6 @@
 import React from "react";
 
-const NavBar = () => {
+const NavBar = ({coin}) => {
   return (
     <div className="navbar bg-base-100 max-w-300 mx-auto">
       <div className="navbar-start">
@@ -30,8 +30,7 @@ const NavBar = () => {
       </div>
       <div className="navbar-end">
         <div className="font-bold text-xl">
-            <span>0</span>
-            <span>Coins</span>
+            <span> {coin} Coins</span>
         </div>
       </div>
     </div>
