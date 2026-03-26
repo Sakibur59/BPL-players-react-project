@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "player_name": "Virat Kohli",
     "player_country": "India",
     "player_type": "Batsman",
@@ -11,6 +12,7 @@
     "img_alt": "Virat Kohli"
   },
   {
+    "id": 2,
     "player_name": "Babar Azam",
     "player_country": "Pakistan",
     "player_type": "Batsman",
@@ -22,6 +24,7 @@
     "img_alt": "Babar Azam"
   },
   {
+    "id": 3,
     "player_name": "Joe Root",
     "player_country": "England",
     "player_type": "Batsman",
@@ -33,6 +36,7 @@
     "img_alt": "Joe Root"
   },
   {
+    "id": 4,
     "player_name": "Kane Williamson",
     "player_country": "New Zealand",
     "player_type": "Batsman",
@@ -44,6 +48,7 @@
     "img_alt": "Kane Williamson"
   },
   {
+    "id": 5,
     "player_name": "Steve Smith",
     "player_country": "Australia",
     "player_type": "Batsman",
@@ -55,6 +60,7 @@
     "img_alt": "Steve Smith"
   },
   {
+    "id": 6,
     "player_name": "Shakib Al Hasan",
     "player_country": "Bangladesh",
     "player_type": "All-rounder",
@@ -66,6 +72,7 @@
     "img_alt": "Shakib Al Hasan"
   },
   {
+    "id": 7,
     "player_name": "Ben Stokes",
     "player_country": "England",
     "player_type": "All-rounder",
@@ -77,6 +84,7 @@
     "img_alt": "Ben Stokes"
   },
   {
+    "id": 8,
     "player_name": "Hardik Pandya",
     "player_country": "India",
     "player_type": "All-rounder",
@@ -88,6 +96,7 @@
     "img_alt": "Hardik Pandya"
   },
   {
+    "id": 9,
     "player_name": "Jasprit Bumrah",
     "player_country": "India",
     "player_type": "Bowler",
@@ -99,6 +108,7 @@
     "img_alt": "Jasprit Bumrah"
   },
   {
+    "id": 10,
     "player_name": "Mitchell Starc",
     "player_country": "Australia",
     "player_type": "Bowler",
@@ -110,6 +120,7 @@
     "img_alt": "Mitchell Starc"
   },
   {
+    "id": 11,
     "player_name": "Trent Boult",
     "player_country": "New Zealand",
     "player_type": "Bowler",
@@ -121,6 +132,7 @@
     "img_alt": "Trent Boult"
   },
   {
+    "id": 12,
     "player_name": "Jos Buttler",
     "player_country": "England",
     "player_type": "Wicketkeeper",
