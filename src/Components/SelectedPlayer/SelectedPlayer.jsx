@@ -2,8 +2,11 @@ import React from "react";
 import { FaUser } from "react-icons/fa";
 import { MdDelete } from "react-icons/md";
 
-const SelectedPlayer = ({ selectedPlayer }) => {
-  console.log(selectedPlayer);
+const SelectedPlayer = ({ selectedPlayer,setSelectedPlayer }) => {
+  const handleDeleteSelectedPlayer= (player) => {
+        const filterPlayers = selectedPlayer.filter(selected => selected.player_name !== player.player_name);
+        setSelectedPlayer(filterPlayers);
+  }
   return (
     <div>
         <div className="space-y-4">
@@ -16,7 +19,7 @@ const SelectedPlayer = ({ selectedPlayer }) => {
             <p>{player.player_type}</p>
           </div>
           </div>
-          <button className="btn text-red-500">
+          <button className="btn text-red-500" onClick={()=>handleDeleteSelectedPlayer(player)}>
             <MdDelete></MdDelete>
           </button>
         </div>;
