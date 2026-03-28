@@ -22,7 +22,7 @@ const Card = ({ player,setCoin,coin,selectedPlayer,setSelectedPlayer}) => {
   return (
     <div className="card bg-base-100 ">
       <figure>
-        <img src={player.player_img} alt={player.img_alt} />
+        <img src={player.player_img} alt={player.img_alt} className="h-25 w-50" />
       </figure>
       <div className="card-body">
         <div>
